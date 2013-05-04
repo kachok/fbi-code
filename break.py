@@ -1,3 +1,5 @@
+# FBI page for cryptogram http://www.fbi.gov/news/stories/2013/april/can-you-crack-a-code
+# good english lang frequency stats - http://scottbryce.com/cryptograms/stats.htm
 import operator
 
 f=open("message.txt","r")
